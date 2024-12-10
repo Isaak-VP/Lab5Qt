@@ -1,0 +1,25 @@
+# ninja log v6
+183	1335	7518954717334077	build.ninja	f2d6f43968353141
+35	185	7518954706932246	C:/Users/vladi/Documents/qtlab1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	5ce14e348d3132ac
+208	932	7518954629943695	qtlab1_autogen/timestamp	83d0c3ac4b00aa6b
+208	932	7518954629943695	qtlab1_autogen/mocs_compilation.cpp	83d0c3ac4b00aa6b
+951	4238	7518954631090571	CMakeFiles/qtlab1.dir/mainwindow.cpp.obj	ed7af0839f308588
+208	932	7518954629943695	C:/Users/vladi/Documents/qtlab1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/qtlab1_autogen/timestamp	83d0c3ac4b00aa6b
+934	3756	7518954630925009	CMakeFiles/qtlab1.dir/qtlab1_autogen/mocs_compilation.cpp.obj	3e932fa9bb028865
+208	932	7518954629943695	C:/Users/vladi/Documents/qtlab1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/qtlab1_autogen/mocs_compilation.cpp	83d0c3ac4b00aa6b
+941	3891	7518954630990537	CMakeFiles/qtlab1.dir/main.cpp.obj	37dba66f76b4614
+4238	4512	7518954663968464	qtlab1.exe	52e6659feb7feb15
+958	4078	7518954631160527	CMakeFiles/qtlab1.dir/temperatureconverter.cpp.obj	b73ddff51354a471
+186	1298	7518954717334077	build.ninja	f2d6f43968353141
+55	220	7518954719480910	C:/Users/vladi/Documents/qtlab1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	5ce14e348d3132ac
+18	136	7518955358387555	C:/Users/vladi/Documents/qtlab1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	5ce14e348d3132ac
+150	349	7518955359716446	qtlab1_autogen/timestamp	83d0c3ac4b00aa6b
+150	349	7518955359716446	qtlab1_autogen/mocs_compilation.cpp	83d0c3ac4b00aa6b
+150	349	7518955359716446	C:/Users/vladi/Documents/qtlab1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/qtlab1_autogen/timestamp	83d0c3ac4b00aa6b
+150	349	7518955359716446	C:/Users/vladi/Documents/qtlab1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/qtlab1_autogen/mocs_compilation.cpp	83d0c3ac4b00aa6b
+350	2854	7518955361723906	CMakeFiles/qtlab1.dir/main.cpp.obj	37dba66f76b4614
+356	3187	7518955361773921	CMakeFiles/qtlab1.dir/mainwindow.cpp.obj	ed7af0839f308588
+3188	3491	7518955390088174	qtlab1.exe	52e6659feb7feb15
+34	199	7518956492647875	C:/Users/vladi/Documents/qtlab1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	5ce14e348d3132ac
+20	190	7518956687165528	C:/Users/vladi/Documents/qtlab1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	5ce14e348d3132ac
+74	254	7519037731965946	C:/Users/vladi/Documents/qtlab1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	5ce14e348d3132ac
